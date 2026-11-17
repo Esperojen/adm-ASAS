@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Pembagian Ruang dan Denah Tes",
+  "description": "Sistem otomatisasi pembagian ruang ujian, pembuatan denah tempat duduk berbasis ranking nilai dan silang jenjang/jenis kelamin, serta cetak dokumen administrasi tes (Daftar Hadir, Denah, Daftar Peserta, Label Meja).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
